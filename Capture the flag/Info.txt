@@ -1,0 +1,25 @@
+There are two agents: Agent A and Agent B.
+Both agents live on a grid world (maze-like map).
+Each agent has a home flag.
+Their goal is to:
+Capture the opponent’s flag,
+Return safely to their own base,
+While protecting their own flag.
+
+Every turn:
+Display the grid
+Both agents pick their next move
+Agents move
+
+Check:
+Did anyone touch enemy flag?
+Did anyone return home with flag?
+
+Check win conditions
+
+Continue until:
+
+A wins
+B wins
+
+Time runs out

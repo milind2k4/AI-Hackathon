@@ -1,0 +1,11 @@
+Library used
+Pygame - For game like display with portable window size.
+
+AI Agents used for collecting resources
+
+Agent1 - Blue - Uses (BFS) Algorithm
+Agent2 - Red - Uses (A*) Algorithm
+
+War ends in 20 seconds
+
+Outcome is Blue mostly wins - (BFS) finds the shortest path to Resources to reach in time efficient.

@@ -1,0 +1,12 @@
+Environment:-
+Grid
+Agents: Agent A(0,0) & Agent B(0,7)
+Sensors: They can see their position + coin positions
+Logic: BFS to nearest coin(10)
+Action: Move (up/down/left/right)
+Reward: +1 for every coin
+
+Input: grid, coin positions, own position
+Decision: find nearest coin using Manhattan distance
+
+Runs turn-by-turn --> Avoids collisions & simultaneous collection
